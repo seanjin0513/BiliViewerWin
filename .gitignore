@@ -1,0 +1,11 @@
+# ---- 构建产物 ----
+bin/
+obj/
+dist/
+
+# ---- 生成的应用图标（由 tools/MakeIcon 生成） ----
+Assets/AppIcon.ico
+
+# ---- Visual Studio / 用户设置 ----
+.vs/
+*.user
